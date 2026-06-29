@@ -1,2 +1,2 @@
 # python-practice
-contains my intial programs for figuring out python
+Contains my intial programs for figuring out python
