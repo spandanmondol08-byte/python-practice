@@ -1,0 +1,5 @@
+u=float(input("Enter the initial velocity in Meter per Second: "))
+v=float(input("Enter the final velocity in Meter per Second: "))
+a=float(input("Enter the acceleration in Meter per Second square: "))
+s=((v**2)-(u**2))/(2*a)
+print("Total distance covered: ",s,"Meter")

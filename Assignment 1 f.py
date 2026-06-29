@@ -1,0 +1,5 @@
+p=float(input("Enter the principal amount: "))
+r=float(input("Enter the rate of interest per annum: "))
+t=float(input("Enter the time in years: "))
+s=(p*(1 + r / 100)**t))- (p*r*t/100)
+print("The difference between the Compound Interest and Simple Interest is: ",s)
