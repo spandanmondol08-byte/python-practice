@@ -4,6 +4,10 @@
 ![CBSE](https://img.shields.io/badge/CBSE-Class%2012-orange)
 ![Beginner](https://img.shields.io/badge/Level-Beginner-success)
 ![Practice](https://img.shields.io/badge/Repository-Practice-lightgrey)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
 
 A collection of my Python programming journey during **Class 12 CBSE Computer Science**.
 
@@ -41,9 +45,13 @@ The primary purpose of this repository is to track my learning progress rather t
 * Dictionaries
 * Sets
 * Pattern Programs
-* Modules
+* Modules & Packages
 * Random Number Generation
 * File Handling
+* MySQL Connectivity
+* Matplotlib
+* Pandas
+* NumPy
 
 ---
 
